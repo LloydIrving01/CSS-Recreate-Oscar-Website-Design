@@ -1,0 +1,16 @@
+/*General*/
+* {
+    border: 1px solid royalblue;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.TopNav {
+    display: flex;
+    align-items: flex-end;
+}
